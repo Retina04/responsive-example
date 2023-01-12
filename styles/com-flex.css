@@ -24,6 +24,7 @@ img {
 .third-row-second-container {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
+
   gap: 5px;
 }
 .third-row > div {
